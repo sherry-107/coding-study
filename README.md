@@ -29,8 +29,7 @@ BOJ_문제번호.확장자
 
 | type | 의미 | 설명 |
 | --- | --- | --- |
-| solved | solve, unsolved → solved |   • 최초 1회로 문제 해결완료 
-  • 최초 1회로 해결하지 못한 문제를 해결했을 때 |
+| solved | solve, unsolved → solved |   • 최초 1회로 문제 해결완료  • 최초 1회로 해결하지 못한 문제를 해결했을 때 |
 | unsolved | unsolved | 최초 1회 문제 풀이 실패 |
 | refactor | 로직 개선 (정답 유지) | 이미 푼 문제지만, 클린 코드를 만들 때 사용 |
 | feedback | 타인 피드백 반영 |  |
